@@ -1,3 +1,5 @@
+2주차 미션입니다.
+
 ```sql
 select id, reward, state, content
 from mission join on mission.id = MemberMisson.mission_id
@@ -19,6 +21,7 @@ values(
 	rating,
 )
 ```
+
 
 ```sql
 select 
