@@ -1,3 +1,5 @@
+2주차 추가과제입니다.
+
 ### **1. static과 JVM 메모리, ClassLoader**
 
 ### **JVM 메모리 구조**
